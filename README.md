@@ -40,7 +40,7 @@ For Windows (example):
 python "C:\path\to\SWOT_wse_RASTER_PROCESSING.py" `
 --input "C:\path\to\NC_folder" `
 --shape "C:\path\to\clip_shape.gpkg" `
---output "C:C:\path\to\output_folder" `
+--output "C:\path\to\output_folder" `
 --mode manual `
 --min 2900 `
 --max 3010
