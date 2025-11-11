@@ -11,6 +11,7 @@ git clone <YOUR-REPO-URL>
 cd reservoir-levels-analysis-with-swot
 
 2. Run the cript (example):
+```bash
 For macOS:
 python3 SWOT_wse_RASTER_PROCESSING.py" \
   --input "/path/to/NC_folder" \
