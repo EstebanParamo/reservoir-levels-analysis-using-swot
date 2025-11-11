@@ -1,11 +1,16 @@
+# Core scientific libraries
 numpy
 pandas
-xarray
-rioxarray
-rasterio
-geopandas
 matplotlib
+xarray
+
+# Geospatial processing
+rasterio
+rioxarray
+geopandas
 shapely
 pyproj
-netcdf4
+netCDF4
+
+# Testing (optional)
 pytest
