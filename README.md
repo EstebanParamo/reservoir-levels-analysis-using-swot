@@ -8,7 +8,7 @@ This project processes SWOT Raster and LakeSP products to extract Water Surface 
 
 ## Raster processing
 
-Main script (SWOT_wse_RASTER_PROCESSING.py) create mosaics per date, clip to a reservoir polygon, compute statistics with user-defined elevation bounds (`min`, `max`), and produce plots.
+Main script (SWOT_wse_RASTER_PROCESSING.py) create mosaics per date, clip to a reservoir polygon, compute statistics with elevation bounds (`min`, `max`), and produce plots.
 
 
 ### Features
