@@ -2,7 +2,7 @@
 
 **Analysis of reservoir water surface elevation (WSE) by comparing SWOT satellite data with in situ measurements.**  
 
-This project processes SWOT Raster and LakeSP products to extract Water Surface Elevation (wse) to compare them whit real in situ measurements.
+This project processes SWOT Raster and LakeSP products to extract Water Surface Elevation (wse) to compare them with real in situ measurements.
 
 ---
 
