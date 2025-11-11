@@ -1,0 +1,11 @@
+numpy
+pandas
+xarray
+rioxarray
+rasterio
+geopandas
+matplotlib
+shapely
+pyproj
+netcdf4
+pytest
