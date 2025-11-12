@@ -1,6 +1,6 @@
 # example_files
 
-**Download example files following: https://drive.google.com/drive/folders/1kxwThl7Sq1aPVZq_4A3tkr5nk6iRi_X5?usp=share_link**  
+**Download example files here: https://drive.google.com/drive/folders/1kxwThl7Sq1aPVZq_4A3tkr5nk6iRi_X5?usp=share_link**  
 
 ---
 ## Reservoir Information
