@@ -8,9 +8,3 @@ xarray
 rasterio
 rioxarray
 geopandas
-shapely
-pyproj
-netCDF4
-
-# Testing (optional)
-pytest
