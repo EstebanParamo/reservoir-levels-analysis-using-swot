@@ -72,11 +72,13 @@ python3 "/path/to/SWOT_wse_RASTER_PROCESSING_V4.py" --input "//path/to/NC_folder
 ```
 ---
 #### 3. Output
+##### General output data
 ```bash
 - CSV file containing average WSE and statistics per date.
 - Plots SWOT-derived average WSE.
 - Clipped and mosaicked raster files for reference.
 ```
+##### Output folders structure
 ```bash
 📁 all_methods_2025-11-11/
 │
