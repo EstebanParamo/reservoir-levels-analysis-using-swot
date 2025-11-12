@@ -18,7 +18,7 @@ The Chuza Reservoir spans the southern portion of SWOT scene 073F and the northe
 
 This example dataset allows you to test the script with real SWOT data and a reservoir shapefile. The files include:
 
-- Clip shape for Chuza reservoir, located in Colombia, because the reservoir lies between two scenes, it is necesary to have both to procees all the **wse** data for the reservoir:
+- Clip shape (.gpkg) for Chuza reservoir.
 
 - **.nc** files from SWOT raster scenes **073F and 074F**, dates included:
   - 2023/09/04
