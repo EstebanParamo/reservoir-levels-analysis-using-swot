@@ -8,7 +8,7 @@ This project processes SWOT Raster and LakeSP products to extract Water Surface 
 
 ## Raster processing module
 
-Main script: (SWOT_wse_RASTER_PROCESSING_V4.py) 
+Main script: (SWOT_wse_RASTER_PROCESSING_Vx.py) 
 This script performs all preprocessing, clipping, and analysis tasks automatically.
 It creates date-stamped mosaics, clips data to reservoir boundaries, applies statistical filters, computes per-date statistics, and generates organized visual and tabular outputs.
 
