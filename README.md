@@ -1,4 +1,4 @@
-# reservoir-levels-analysis-with-swot
+# reservoir-levels-analysis-using-swot
 
 **Automated analysis of reservoir Water Surface Elevation (WSE) by comparing SWOT satellite data with in situ measurements.**  
 
