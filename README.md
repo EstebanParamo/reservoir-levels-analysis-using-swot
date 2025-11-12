@@ -50,7 +50,7 @@ python "C:\path\to\SWOT_wse_RASTER_PROCESSING_V4.py" --input "C:\path\to\NC_fold
 ```bash
 For macOS/Linux (example) for (mode all):
 
-python3 "/path/to/SWOT_wse_RASTER_PROCESSING_V4.py" --input "//path/to/NC_folder" --shape "/path/to/clip_shape.gpkg" --output "/path/to/output_folder" --mode all --percentiles 10 90 --std_factor 2 --min 2900 --max 3010
+python3 "/path/to/SWOT_wse_RASTER_PROCESSING_V4.py" --input "/path/to/NC_folder" --shape "/path/to/clip_shape.gpkg" --output "/path/to/output_folder" --mode all --percentiles 10 90 --std_factor 2 --min 2900 --max 3010
 ```
 ```bash
 # For the Percentile filter:
