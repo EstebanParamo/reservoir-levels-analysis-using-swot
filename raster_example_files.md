@@ -8,7 +8,6 @@
 - Chuza Reservoir shapefile (ChuzaReservoirShape.gpkg)
 - Located in: Colombia
 - Primary source of water for Bogotá
-- Key characteristic: The reservoir spans two adjacent SWOT satellite scenes (073F and 074F)
 
 ## Why Two Scenes Are Needed
 
