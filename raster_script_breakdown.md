@@ -1,4 +1,4 @@
-# Script breakdown: SWOT_wse_RASTER_PROCESSING.py
+# Script breakdown: SWOT_wse_RASTER_PROCESSING_Vx.py
 ## Overview
 
 This script processes SWOT satellite raster data (NetCDF format) to extract Water Surface Elevation (WSE) time series from a defined reservoir polygon.
