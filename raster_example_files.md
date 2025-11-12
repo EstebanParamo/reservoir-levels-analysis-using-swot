@@ -3,9 +3,8 @@
 **Download example files here: https://drive.google.com/drive/folders/1kxwThl7Sq1aPVZq_4A3tkr5nk6iRi_X5?usp=share_link**  
 
 ---
-## Reservoir Information
+## Chuza Reservoir Information
 
-- Chuza Reservoir shapefile (ChuzaReservoirShape.gpkg)
 - Located in: Colombia
 - Primary source of water for Bogotá
 
