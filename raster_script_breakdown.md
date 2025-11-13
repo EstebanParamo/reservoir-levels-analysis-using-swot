@@ -159,9 +159,6 @@ When `--mode all` is selected, it runs **all three filtering modes** sequentiall
 * A combined CSV summarizing all WSE statistics in one table.
 * Comparative plots overlaying the results of all methods.
 
-**Why:**
-This enables side-by-side comparison of the three filtering approaches, showing how sensitive the statistics are to the chosen outlier rejection criteria.
-
 ---
 
 ### **9. `run_all()`**
