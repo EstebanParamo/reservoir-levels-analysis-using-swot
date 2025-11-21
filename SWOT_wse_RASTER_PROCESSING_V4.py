@@ -1,4 +1,3 @@
-# RASTER_PROCESSING_VF_ENG_argparse_v6.py
 import os
 import re
 import rasterio
@@ -753,3 +752,4 @@ if __name__ == "__main__":
         print(f"Std factor: {processor.std_factor}")
 
     processor.run_all()
+
