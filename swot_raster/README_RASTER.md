@@ -61,3 +61,20 @@ When triggered, the pipeline coordinates the following processing phases across 
 ### Phase 6: Final Figures & Executive Reports
 * **figures_generator.py**: Generates automated plots (WSE validation timelines, histograms, and quality-vs-error crossplots).
 * **summary_report.py**: Compiles all metrics into a consolidated executive CSV report for immediate hydrological use.
+
+## Requirements & Installation
+
+This project relies on a standard Python data stack for processing SWOT raster data. 
+
+### Dependencies
+* **`rasterio` & `rioxarray`**: Essential for reading, writing, and manipulating raster data (NetCDF/GeoTIFF).
+* **`xarray`**: Used alongside `rioxarray` for efficient handling of multidimensional SWOT products.
+* **`numpy` & `pandas`**: Required for statistical calculations, bitwise mask processing, and generating summary tables.
+* **`geopandas`**: Necessary for managing reservoir shapefiles (e.g., Chuza and San Rafael) for clipping operations and spatial diagnostics.
+* **`matplotlib`**: Used in figure generation scripts for time series plots and quality histograms.
+
+### Installation
+Once you have cloned this repository, install the dependencies using the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
