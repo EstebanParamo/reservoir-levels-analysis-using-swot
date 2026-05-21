@@ -1,4 +1,4 @@
-# Reservoir Levels Analysis using SWOT and Sentinel-2 
+# Reservoir Levels Analysis Using Satellite Data
 
 This repository centralizes the GIS tools, processing pipelines, and statistical validation methodologies developed to monitor water surface elevation (WSE) and surface area dynamics in continental reservoirs (specifically **Chuza** and **San Rafael**). The project incorporates multi-product satellite data to evaluate hydrological performance against gauge observations (OBS series).
 
