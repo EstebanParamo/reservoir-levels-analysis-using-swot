@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+swot_env/
+
+# Large binary datasets (raw satellite granules should be downloaded via scripts)
+*.nc
+*.zip
+*.tar.gz
+*.tif
+*.TIF
+output_test/
+results/
+temp/
